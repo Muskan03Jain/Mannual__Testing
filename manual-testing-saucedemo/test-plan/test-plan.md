@@ -4,13 +4,13 @@
 SauceDemo Manual Testing Project
 
 ## Prepared By
-Prasadi Nishshanka
+Muskan Jain
 
 ## Version
 1.0
 
 ## Date
-08 May 2026
+ 22 june 2026
 
 ---
 
@@ -134,12 +134,12 @@ Note:
 
 # 6. Test Schedule
 
-| Task                         | Time Duration         |
-|------------------------------|-----------------------|
-| Creating Test Plan           | 5/8/2026 - 5/8/2026   |
-| Test Case Creation           | 5/9/2026 - 5/10/2026  |
-| Test Case Execution          | 5/10/2026 - 5/11/2026 |
-| Finalizing Summary Report    | 5/12/2026 - 5/12/2026 |
+| Task                      | Start Date | End Date   |
+|---------------------------|------------|------------|
+| Creating Test Plan        | 15 Jun 2026 | 15 Jun 2026 |
+| Test Case Creation        | 17 Jun 2026 | 19 Jun 2026 |
+| Test Case Execution       | 20 Jun 2026 | 21 Jun 2026 |
+| Finalizing Summary Report | 22 Jun 2026 | 22 Jun 2026 |
 
 ---
 
