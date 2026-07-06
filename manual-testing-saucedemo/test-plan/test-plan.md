@@ -192,4 +192,4 @@ Testing will be completed when:
 
 | Name               | Role | Status |
 |--------------------|---|---|
-| Prasadi Nishshanka | QA Tester | Approved |
+| Muskan Jain        | QA Tester | Approved |
